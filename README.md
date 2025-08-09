@@ -3,22 +3,13 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="readmeai/assets/logos/purple.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<img src="frontend/public/project-management.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
 # PROJECTIFY
 
 <em></em>
 
-<!-- BADGES -->
-<img src="https://img.shields.io/github/license/ZunairaAli18/Projectify?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-<img src="https://img.shields.io/github/last-commit/ZunairaAli18/Projectify?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-<img src="https://img.shields.io/github/languages/top/ZunairaAli18/Projectify?style=default&color=0080ff" alt="repo-top-language">
-<img src="https://img.shields.io/github/languages/count/ZunairaAli18/Projectify?style=default&color=0080ff" alt="repo-language-count">
 
-<!-- default option, no dependency badges. -->
-
-
-<!-- default option, no dependency badges. -->
 
 </div>
 <br>
@@ -46,13 +37,32 @@
 
 ## Overview
 
+Projectify is a full-stack Project Management System designed to streamline collaboration, task tracking, and progress monitoring for teams of all sizes.  
+It enables project managers and team members to efficiently organize their work, assign responsibilities, track deadlines, and visualize project progress — all in one place.
+
+The system is built with:
+- **Frontend**: React (for an interactive and responsive UI)
+- **Backend**: Flask (Python) with PostgreSQL database
+- **Database**: PostgreSQL with stored procedures for secure and optimized queries
+- **Containerization**: Docker & Docker Compose for consistent development and deployment
+
+Whether you're managing a small side project or coordinating a large-scale initiative, Projectify helps keep everything structured and accessible.
 
 
 ---
 
 ## Features
 
-<code>❯ REPLACE-ME</code>
+- **User Authentication**: Secure login and registration with password hashing
+- **Project Dashboard**: View all your projects, their progress, and key metrics in one place
+- **Task Management**: Create, assign, and update tasks with deadlines and statuses
+- **Member Assignment**: Assign specific users to projects and manage team roles
+- **Chatbot Integration**: Chatbot for users
+- **Search & Filter**: Quickly find projects and tasks with built-in search functionality
+- **Responsive Design**: Works seamlessly on desktop and mobile devices
+- **Database Security**: Uses PostgreSQL stored procedures for database operations
+- **Containerized Deployment**: Easy setup using Docker and Docker Compose
+
 
 ---
 
@@ -187,7 +197,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-128/attachments/docker-compose.yml'>docker-compose.yml</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-128/attachments/docker-compose.yml'>docker-compose.yml</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -215,7 +225,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-11/attachments/meta.json'>meta.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-11/attachments/meta.json'>meta.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -243,7 +253,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-142/attachments/meta.json'>meta.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-142/attachments/meta.json'>meta.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -271,7 +281,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-143/attachments/meta.json'>meta.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-143/attachments/meta.json'>meta.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -299,7 +309,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-126/attachments/docker-compose.yml'>docker-compose.yml</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-126/attachments/docker-compose.yml'>docker-compose.yml</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -327,7 +337,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-8/userstory-52/meta.json'>meta.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-8/userstory-52/meta.json'>meta.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -347,7 +357,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-8/attachments/meta.json'>meta.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-8/attachments/meta.json'>meta.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -375,7 +385,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-161/attachments/meta.json'>meta.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-161/attachments/meta.json'>meta.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -397,7 +407,7 @@
 								</tr>
 							</thead>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-59/meta.json'>meta.json</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-59/meta.json'>meta.json</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 							</table>
@@ -415,7 +425,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-59/userstory-50/docker-compose.yml'>docker-compose.yml</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-59/userstory-50/docker-compose.yml'>docker-compose.yml</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -435,11 +445,11 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-59/attachments/meta.json'>meta.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-59/attachments/meta.json'>meta.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-59/attachments/docker-compose.yml'>docker-compose.yml</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-59/attachments/docker-compose.yml'>docker-compose.yml</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -459,7 +469,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-59/userstory-39/docker-compose.yml'>docker-compose.yml</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-59/userstory-39/docker-compose.yml'>docker-compose.yml</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -487,7 +497,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-163/attachments/meta.json'>meta.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-163/attachments/meta.json'>meta.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -515,7 +525,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-162/attachments/meta.json'>meta.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-162/attachments/meta.json'>meta.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -537,7 +547,7 @@
 								</tr>
 							</thead>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-57/docker-compose.yml'>docker-compose.yml</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-57/docker-compose.yml'>docker-compose.yml</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 							</table>
@@ -563,7 +573,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-166/attachments/64235362-D0F5-478E-A1A3-DFD6BC47D810.json'>64235362-D0F5-478E-A1A3-DFD6BC47D810.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-166/attachments/64235362-D0F5-478E-A1A3-DFD6BC47D810.json'>64235362-D0F5-478E-A1A3-DFD6BC47D810.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -583,7 +593,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-166/userstory-56/64235362-D0F5-478E-A1A3-DFD6BC47D810.json'>64235362-D0F5-478E-A1A3-DFD6BC47D810.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-166/userstory-56/64235362-D0F5-478E-A1A3-DFD6BC47D810.json'>64235362-D0F5-478E-A1A3-DFD6BC47D810.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -611,7 +621,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/uploads/project-undefined/attachments/meta.json'>meta.json</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/uploads/project-undefined/attachments/meta.json'>meta.json</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -641,15 +651,15 @@
 								</tr>
 							</thead>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/app/db/stored_procs.py'>stored_procs.py</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/app/db/stored_procs.py'>stored_procs.py</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/app/db/mydb_schema.sql'>mydb_schema.sql</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/app/db/mydb_schema.sql'>mydb_schema.sql</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/app/db/cludinaryconfig.py'>cludinaryconfig.py</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/app/db/cludinaryconfig.py'>cludinaryconfig.py</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 							</table>
@@ -669,7 +679,7 @@
 								</tr>
 							</thead>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/backend/app/routes/auth_routes.py'>auth_routes.py</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/backend/app/routes/auth_routes.py'>auth_routes.py</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 							</table>
@@ -693,35 +703,35 @@
 				</tr>
 			</thead>
 				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/Dockerfile'>Dockerfile</a></b></td>
+					<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/Dockerfile'>Dockerfile</a></b></td>
 					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/next.config.mjs'>next.config.mjs</a></b></td>
+					<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/next.config.mjs'>next.config.mjs</a></b></td>
 					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/jsconfig.json'>jsconfig.json</a></b></td>
+					<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/jsconfig.json'>jsconfig.json</a></b></td>
 					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/package-lock.json'>package-lock.json</a></b></td>
+					<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/package-lock.json'>package-lock.json</a></b></td>
 					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/package.json'>package.json</a></b></td>
+					<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/package.json'>package.json</a></b></td>
 					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/docker-compose.yml'>docker-compose.yml</a></b></td>
+					<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/docker-compose.yml'>docker-compose.yml</a></b></td>
 					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/postcss.config.mjs'>postcss.config.mjs</a></b></td>
+					<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/postcss.config.mjs'>postcss.config.mjs</a></b></td>
 					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/eslint.config.mjs'>eslint.config.mjs</a></b></td>
+					<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/eslint.config.mjs'>eslint.config.mjs</a></b></td>
 					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 			</table>
@@ -745,7 +755,7 @@
 								</tr>
 							</thead>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/store/index.js'>index.js</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/store/index.js'>index.js</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 							</table>
@@ -763,7 +773,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/store/slices/authSlice.js'>authSlice.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/store/slices/authSlice.js'>authSlice.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -785,27 +795,27 @@
 								</tr>
 							</thead>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/globals.css'>globals.css</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/globals.css'>globals.css</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/tailwind.config.js'>tailwind.config.js</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/tailwind.config.js'>tailwind.config.js</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/layout.js'>layout.js</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/layout.js'>layout.js</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/redux-provider.jsx'>redux-provider.jsx</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/redux-provider.jsx'>redux-provider.jsx</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/page.js'>page.js</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/page.js'>page.js</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 								<tr style='border-bottom: 1px solid #eee;'>
-									<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/debug-auth.jsx'>debug-auth.jsx</a></b></td>
+									<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/debug-auth.jsx'>debug-auth.jsx</a></b></td>
 									<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 								</tr>
 							</table>
@@ -823,7 +833,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/login/page.js'>page.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/login/page.js'>page.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -843,7 +853,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/ProfilePanel.js'>ProfilePanel.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/ProfilePanel.js'>ProfilePanel.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
@@ -851,103 +861,103 @@
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/SideBar.js'>SideBar.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/SideBar.js'>SideBar.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/CalendarModal.js'>CalendarModal.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/CalendarModal.js'>CalendarModal.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/BotPressChatbot.js'>BotPressChatbot.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/BotPressChatbot.js'>BotPressChatbot.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/UserHeader.js'>UserHeader.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/UserHeader.js'>UserHeader.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/SettingsHeader.js'>SettingsHeader.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/SettingsHeader.js'>SettingsHeader.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/CustomCalendar.js'>CustomCalendar.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/CustomCalendar.js'>CustomCalendar.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/Card.js'>Card.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/Card.js'>Card.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/ProjectAttachments.js'>ProjectAttachments.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/ProjectAttachments.js'>ProjectAttachments.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/Board.js'>Board.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/Board.js'>Board.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/UserStporyDetails.js'>UserStporyDetails.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/UserStporyDetails.js'>UserStporyDetails.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/ProjectCard.js'>ProjectCard.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/ProjectCard.js'>ProjectCard.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/AddUserModal.js'>AddUserModal.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/AddUserModal.js'>AddUserModal.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/ChangePasswordModal.js'>ChangePasswordModal.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/ChangePasswordModal.js'>ChangePasswordModal.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/AddProjectModal.js'>AddProjectModal.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/AddProjectModal.js'>AddProjectModal.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/Guard.js'>Guard.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/Guard.js'>Guard.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/AddUserStoryModal.js'>AddUserStoryModal.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/AddUserStoryModal.js'>AddUserStoryModal.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/SelectAttachmentsMOdal.js'>SelectAttachmentsMOdal.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/SelectAttachmentsMOdal.js'>SelectAttachmentsMOdal.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/Header.js'>Header.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/Header.js'>Header.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/commentMOdal.js'>commentMOdal.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/commentMOdal.js'>commentMOdal.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/MemberProfile.js'>MemberProfile.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/MemberProfile.js'>MemberProfile.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/AssignMemberButton.js'>AssignMemberButton.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/AssignMemberButton.js'>AssignMemberButton.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/NavBar.js'>NavBar.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/NavBar.js'>NavBar.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/PauseProjectModal.js'>PauseProjectModal.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/PauseProjectModal.js'>PauseProjectModal.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/Column.js'>Column.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/Column.js'>Column.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/components/MembersPanel.js'>MembersPanel.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/components/MembersPanel.js'>MembersPanel.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -967,7 +977,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/dashboard/page.js'>page.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/dashboard/page.js'>page.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -987,7 +997,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/calendar/page.js'>page.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/calendar/page.js'>page.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -1007,7 +1017,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/userstory_dashboard/page.js'>page.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/userstory_dashboard/page.js'>page.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -1027,7 +1037,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/signup/page.js'>page.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/signup/page.js'>page.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -1047,7 +1057,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/myprofile/page.js'>page.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/myprofile/page.js'>page.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -1067,7 +1077,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/settings/page.js'>page.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/settings/page.js'>page.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -1087,7 +1097,7 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/app/members/page.js'>page.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/app/members/page.js'>page.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -1115,35 +1125,35 @@
 										</tr>
 									</thead>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/lib/api/searchMembers.js'>searchMembers.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/lib/api/searchMembers.js'>searchMembers.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/lib/api/projects.js'>projects.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/lib/api/projects.js'>projects.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/lib/api/fetchProjectAttachments.js'>fetchProjectAttachments.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/lib/api/fetchProjectAttachments.js'>fetchProjectAttachments.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/lib/api/api.js'>api.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/lib/api/api.js'>api.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/lib/api/Members.js'>Members.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/lib/api/Members.js'>Members.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/lib/api/userstory.js'>userstory.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/lib/api/userstory.js'>userstory.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/lib/api/ChangePassword.js'>ChangePassword.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/lib/api/ChangePassword.js'>ChangePassword.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 										<tr style='border-bottom: 1px solid #eee;'>
-											<td style='padding: 8px;'><b><a href='https://github.com/ZunairaAli18/Projectify/blob/master/frontend/src/lib/api/searchProjects.js'>searchProjects.js</a></b></td>
+											<td style='padding: 8px;'><b><a href='https://github.com/AliRaza7x/Projectify/blob/master/frontend/src/lib/api/searchProjects.js'>searchProjects.js</a></b></td>
 											<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 										</tr>
 									</table>
@@ -1176,7 +1186,7 @@ Build Projectify from the source and intsall dependencies:
 1. **Clone the repository:**
 
     ```sh
-    ❯ git clone https://github.com/ZunairaAli18/Projectify
+    ❯ git clone https://github.com/AliRaza7x/Projectify
     ```
 
 2. **Navigate to the project directory:**
@@ -1196,7 +1206,7 @@ Build Projectify from the source and intsall dependencies:
 	**Using [docker](https://www.docker.com/):**
 
 	```sh
-	❯ docker build -t ZunairaAli18/Projectify .
+	❯ docker build -t AliRaza7x/Projectify .
 	```
 <!-- SHIELDS BADGE CURRENTLY DISABLED -->
 	<!-- [![pip][pip-shield]][pip-link] -->
@@ -1249,9 +1259,9 @@ python run.py
 
 ## Contributing
 
-- **💬 [Join the Discussions](https://github.com/ZunairaAli18/Projectify/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/ZunairaAli18/Projectify/issues)**: Submit bugs found or log feature requests for the `Projectify` project.
-- **💡 [Submit Pull Requests](https://github.com/ZunairaAli18/Projectify/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **💬 [Join the Discussions](https://github.com/AliRaza7x/Projectify/discussions)**: Share your insights, provide feedback, or ask questions.
+- **🐛 [Report Issues](https://github.com/AliRaza7x/Projectify/issues)**: Submit bugs found or log feature requests for the `Projectify` project.
+- **💡 [Submit Pull Requests](https://github.com/AliRaza7x/Projectify/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -1282,7 +1292,7 @@ python run.py
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/ZunairaAli18/Projectify/}graphs/contributors">
+   <a href="https://github.com{/AliRaza7x/Projectify/}graphs/contributors">
       <img src="https://contrib.rocks/image?repo=ZunairaAli18/Projectify">
    </a>
 </p>
